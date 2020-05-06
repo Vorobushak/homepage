@@ -1,3 +1,12 @@
 .avatar-fix{
     border-radius: 50%;
 }
+.pl-1{
+    margin-left: 1em;
+}
+.pl-2{
+    margin-left: 2em !important;
+}
+.pt-1{
+    margin-top: 1em;
+}
